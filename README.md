@@ -6,13 +6,12 @@ Field:
     State (Illinois) funding for crimes commited and where it can be re-allocated
 
 Questions:
-    1. How much is spent statewide on different crimes?
+    1. How much is spent statewide for fire and police?
         a. By Illinois
             then (Chicago, Naperville, Springfield, Park Ridge, Bolingbrook)  
         b. departments and their spending   
-            i. patrol
-            ii. detectives
-            etc.
+            i. fire
+            ii. police
         Amanda
     
     2. Crime trends
