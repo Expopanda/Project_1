@@ -3,7 +3,7 @@ Team 3 Project 1
 Amanda Baynard, Andrew Voortman, Corbin Moore, Sania Sufi, and Shunjia Liu
 
 Field: 
-    State (Illinois) funding for crimes commited and where it can be re-allocated
+    TBD
 
 Questions:
     1. How much is spent statewide for fire and police?
@@ -27,7 +27,7 @@ Questions:
             ix. Arson
         Andrew
         
-    3. What are the crime rates per city? (Using )
+    3. What are the crime rates per city?
         a. most common crimes
         b. Cities:(Chicago, Naperville, Springfield, Park Ridge, Bolingbrook)
             i. Murder
@@ -56,18 +56,7 @@ Questions:
         c. ages
         Sania
     
-    5. Education/Crime Prevention in place (IL)
-        a. Cities:
-            i. Murder
-            ii. Rape
-            iii. Robbery     
-            iv. Aggravated assault
-            v. Property crime
-            vi. Burglary
-            vii. Larceny-theft
-            viii. Motor vehicle theft
-            ix. Arson
-        Shunjia
+    5. Shunjia
  
 
 Data Sources:
