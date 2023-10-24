@@ -1,1 +1,26 @@
-shunjia
+Rshunjia 
+
+Crime Rate Ranking findings 
+
+I choose Chicago, Bolingbrook, Springfield, Park Ridge and Naperville, those five cities which our group live to do the analysis. And the year range is from 2010 to 2019 based on the datasets from the FBI'S website: https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr.
+
+I got five maps on the crime rate for those five cities, which is the :
+              Crime rate = city crime amount/ city population
+
+Findings:
+
+
+---Chicago：it has the Robbery and MoTor vehicle theft on the top of the list. And the other three crimes also ranked on the second place.
+
+
+---Bolingbrook：for the crime burglary , Bolingbrook ranked on the no. 1 . And also the other four crimes, it ranked on the third place.
+
+
+---Springfield: It has three crimes at the top of the list.  
+
+
+----Park Ridge & Naperville : it seems like that park ridge and Naperville are slightly similar. Just Park ridge has the Burglary ranks higher than Naperville. 
+
+And for the Rape and larceny-theft : Naperville ranked higher than the park ridge.
+
+And for the Robbery and Motor-vehicle-theft:  park Ridge ranked higher than Naperville.
