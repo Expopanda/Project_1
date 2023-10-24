@@ -3,12 +3,14 @@ Team 3 Project 1
 Amanda Baynard, Andrew Voortman, Corbin Moore, Sania Sufi, and Shunjia Liu
 
 Field: 
-    TBD
+    Crime Rate coorelation between population, gender and budget
+
+
 
 Questions:
     1. How much is spent statewide for fire and police?
-        a. By Illinois
-            then (Chicago, Naperville, Springfield, Park Ridge, Bolingbrook)  
+        a. By city
+            (Chicago, Naperville, Springfield, Park Ridge, Bolingbrook)  
         b. departments and their spending   
             i. fire
             ii. police
@@ -27,7 +29,7 @@ Questions:
             ix. Arson
         Andrew
         
-    3. What are the crime rates per city?
+    3. What are the most common crimes per city?
         a. most common crimes
         b. Cities:(Chicago, Naperville, Springfield, Park Ridge, Bolingbrook)
             i. Murder
@@ -42,7 +44,7 @@ Questions:
         Corbin
 
     4. Who is more likely to commit the crimes (Compare crimes by)
-        a. Cities: (Chicago, Naperville, Springfield, Park Ridge, Bolingbrook)
+        a. Illinois
             i. Murder
             ii. Rape
             iii. Robbery     
@@ -56,9 +58,14 @@ Questions:
         c. ages
         Sania
     
-    5. Shunjia
+    5. Comparison of crimes per city by density/severity of crime
+        a. Mapdata by crime
+            i. Rape
+            ii. Robbery     
+            iii. Burglary
+            iv. Larceny-theft
+            v. Motor vehicle theft
  
-
 Data Sources:
     www.PoliceFundingDatabase.org
     ucr.fbi.gov
@@ -72,4 +79,12 @@ Data Sources:
     data.world
     kaggle.com
     illinoiscomptroller.gov
+    www.idoc.illinois.gov
+    chatGBT
+    google.com (including google maps)
+
+Outside help:
+    TA Andrew 
+    TA Erin Wills
+    Instructor Will Wright
 
