@@ -11,7 +11,7 @@ Questions:
     1. How much is spent statewide for fire and police?
         a. By city
             (Chicago, Naperville, Springfield, Park Ridge, Bolingbrook)  
-        b. departments and their spending   
+        b. Departments   
             i. fire
             ii. police
         Amanda
@@ -45,26 +45,18 @@ Questions:
 
     4. Who is more likely to commit the crimes (Compare crimes by)
         a. Illinois
-            i. Murder
-            ii. Rape
-            iii. Robbery     
-            iv. Aggravated assault
-            v. Property crime
-            vi. Burglary
-            vii. Larceny-theft
-            viii. Motor vehicle theft
-            ix. Arson
         b. male vs female
         c. ages
         Sania
     
     5. Comparison of crimes per city by density/severity of crime
-        a. Mapdata by crime
+        a. Map data by crime
             i. Rape
             ii. Robbery     
             iii. Burglary
             iv. Larceny-theft
             v. Motor vehicle theft
+        Shunjia
  
 Data Sources:
     www.PoliceFundingDatabase.org
